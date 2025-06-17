@@ -5,7 +5,7 @@
 - Optimization and logisitcs modeling
 - UI/UX for analytics dashboards 
 - 💞️ I’m looking to collaborate on Data Analytics and visualization projects
-- Fintech tools taht support financial literacy and credit heatlth
+- Fintech tools that support financial literacy and credit heatlth
 - Open-source tools for logistics
 - Personal finance and budgeting apps with automation feaetures
 - 📫 How to reach me by email @bryant.lawschool@gmail.com
