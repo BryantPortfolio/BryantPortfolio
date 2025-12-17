@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BryantPortfolio AKA Daij 
 - 👀 I’m passionate about data analysis, finance, and building tools (manual or automated) that create real-world impact to boost product efficiency in any business.
 - I enjoy combining creativity with logic to solve meaningful problems through code, analysis, and smart decision-making.
-- 🌱 I’m currently learning Advanced Python for Data Science, Streamlit for building data-driven web apps
+- 🌱 I’m currently learning Advanced Python for Data Science & Streamlit for building data-driven web apps
 - Optimization and logisitcs modeling
 - UI/UX for analytics dashboards 
 - 💞️ I’m looking to collaborate on Data Analytics and visualization projects
